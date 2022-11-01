@@ -4,7 +4,7 @@
   </div>
 </template>
 
-<script>
+<script setup>
   import { ref } from 'vue';
   import Tweet from './components/Tweet.vue';
 
