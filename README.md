@@ -19,7 +19,7 @@ We will be cloning an existing piece of UI from a popular app, Twitter. Let's ge
 - Open the LAB and start:
 
   ```bash
-  $ cd lab-vue-tweets
+  $ cd lab-vue-c-tweets
   $ npm install
   $ npm run dev
   ```
